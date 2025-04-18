@@ -1,0 +1,29 @@
+{
+  "name": "Moments #5",
+  "description": "A unique moment captured in time, part of the Moments collection.",
+  "image": "https://picsum.photos/id/105/800/800",
+  "external_url": "https://moments-collection.example/5",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Abstract"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Analogous"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Mysterious"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Created",
+      "value": 1713993600
+    }
+  ]
+}

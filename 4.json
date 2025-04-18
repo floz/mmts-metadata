@@ -1,0 +1,29 @@
+{
+  "name": "Moments #4",
+  "description": "A unique moment captured in time, part of the Moments collection.",
+  "image": "https://picsum.photos/id/104/800/800",
+  "external_url": "https://moments-collection.example/4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Digital"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Analogous"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Energetic"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Created",
+      "value": 1713907200
+    }
+  ]
+}

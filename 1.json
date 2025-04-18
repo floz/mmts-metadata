@@ -1,0 +1,29 @@
+{
+  "name": "Moments #1",
+  "description": "The first moment captured in time, part of the Moments collection.",
+  "image": "https://picsum.photos/id/101/800/800",
+  "external_url": "https://moments-collection.example/1",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Minimalist"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Monochrome"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Contemplative"
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "Created", 
+      "value": 1713561600
+    }
+  ]
+}

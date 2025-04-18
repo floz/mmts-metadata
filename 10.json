@@ -1,0 +1,29 @@
+{
+  "name": "Moments #10",
+  "description": "A unique moment captured in time, part of the Moments collection.",
+  "image": "https://picsum.photos/id/110/800/800",
+  "external_url": "https://moments-collection.example/10",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Photorealistic"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Complementary"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Chaotic"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Created",
+      "value": 1714425600
+    }
+  ]
+}

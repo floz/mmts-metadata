@@ -1,0 +1,29 @@
+{
+  "name": "Moments #8",
+  "description": "A unique moment captured in time, part of the Moments collection.",
+  "image": "https://picsum.photos/id/108/800/800",
+  "external_url": "https://moments-collection.example/8",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Digital"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Complementary"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Melancholic"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Created",
+      "value": 1714252800
+    }
+  ]
+}

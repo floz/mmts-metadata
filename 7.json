@@ -1,0 +1,29 @@
+{
+  "name": "Moments #7",
+  "description": "A unique moment captured in time, part of the Moments collection.",
+  "image": "https://picsum.photos/id/107/800/800",
+  "external_url": "https://moments-collection.example/7",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Surreal"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Earth Tones"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Harmonious"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Created",
+      "value": 1714166400
+    }
+  ]
+}
